@@ -1,2 +1,0 @@
-# Portfolio
-All about me.
