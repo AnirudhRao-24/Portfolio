@@ -19,7 +19,7 @@ Before we start, your computer needs a special program to understand the website
 ## 🧩 Step 3: Download the Missing Puzzle Pieces
 Websites use lots of background files to work. Instead of making you download them all manually, we can tell your computer to fetch them automatically!
 1. Open your code editor (like VS Code).
-2. Open the **Terminal** inside your editor (In VS Code, go to the top menu: `Terminal > New Terminal`).
+2. Open the **Terminal** inside your editor (In VS Code, go to the top menu: `Terminal > New Terminal`).Or open the terminal in the folder where the        website is located.
 3. Type this exact command and hit Enter:
    ```bash
    npm install
@@ -29,10 +29,8 @@ Websites use lots of background files to work. Instead of making you download th
 ## ✏️ Step 4: Add Your Own Information
 Right now, the website belongs to "John Doe". Let's make it yours!
 1. Go into the `src` folder.
-2. Find the file named `config.template.ts`.
-3. **Right-click** the file and select **Rename**.
-4. Change the name to exactly: `config.ts` (remove the ".template" part).
-5. Open your new `config.ts` file! You will see John Doe's name, skills, and projects. Just delete his text and type yours instead! 
+2. Find the file named `config.ts`.
+3. Open `config.ts` file! You will see John Doe's name, skills, and projects. Just delete his text and type yours instead!.
 
 ## 💻 Step 5: See Your Website Live!
 Want to see what it looks like on your own computer?
